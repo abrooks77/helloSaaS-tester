@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 contentSecurityPolicy:
     default-src 'self' https://id.magnolia-cloud.com https://author-m2l4ksf2xn26grcr.saas.magnolia-cloud.com
     script-src 'self' 'unsafe-inline' 'unsafe-eval'
